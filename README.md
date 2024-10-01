@@ -19,12 +19,15 @@ The model is trained and evaluated according to Karpathy constant using BCELoss.
 </p></body>
 
 <p>You can run the docker image as follows:</p>
-<code>docker run -d -p 5000:5000 vae_app:1</code>
+<code>docker run -d -p 5000:5000 vae_app:1</code><br><br>
 
 
-<br><div class="image-format">  
-<img src="/logos/Screenshot from 2024-09-25 14-40-13.png" style="vertical-align:middle" height="50" width="50"><br>    
-<img src="/logos/docker-mark-blue.png" style="vertical-align:middle" height="60" width="60"></div>
+<div style="display: flex; justify-content: center;">
+  <img src="/logos/Screenshot from 2024-09-25 14-40-13.png" width="80" />
+  <img src="/logos/docker-mark-blue.png" width="80" />
+ <img src="https://github.com/user-attachments/assets/2cb401e8-521a-4cdc-b8ce-a2b2d7d632b2" width="80" />
+</div><br>
+
 
 ![Screenshot 2024-09-30 191043](https://github.com/user-attachments/assets/47034dbc-4d52-4ae4-9147-fb87567b8a47)
 
