@@ -14,7 +14,7 @@
 </p>
 
 <p>A Variational AutoEncoder has been built using transformers
-and trained on MNIST dataset using pytorch transformers.
+and trained on MNIST dataset using pytorch transformers. It can be used to generate images based on the given dataset.
 The model is trained and evaluated according to Karpathy constant using BCELoss.
 </p></body>
 
